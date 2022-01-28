@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Brett 👋
+
+After 5 years of working as a Mechanical Engineer, I've pivoted to Web Development (which is apparently a common thing in the industry) and I'm currently completing a doiploma at Lighthouse Labs Bootcamp.
+
+I started adding to my coding knowledge base from my mech eng degree program, mainly C and MATLAB, and into JS and HTML, which led me to taking the LHL Bootcamp.
 
 <!--
 **bbjarvis/bbjarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
