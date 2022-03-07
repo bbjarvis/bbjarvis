@@ -4,7 +4,7 @@ After 5 years of working as a Mechanical Engineer, I've pivoted to Web Developme
 
 I started adding to my coding knowledge base from my mech eng degree program, mainly C and MATLAB, and into JS and HTML, which led me to taking the LHL Bootcamp. 
 
-- 🔭 I’m currently working on an instrument rental app, like Turo for musicians
+- 🔭 I’m currently working on an instrument rental app called [JamSpace](https://github.com/bbjarvis/JamSpace), like Turo for musicians
 - 🌱 I’m currently learning Ruby, Rails, Mongo
 - :round_pushpin: I live in Kelowna, BC
 - 📫 Connect with me:
