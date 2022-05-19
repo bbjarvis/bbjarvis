@@ -1,8 +1,8 @@
 ### Hi, I'm Brett 👋
 
-After 5 years of working as a Mechanical Engineer, I've pivoted to Web Development (which is apparently a common thing in the industry) and I'm currently completing a diploma at Lighthouse Labs Bootcamp.
+After 5 years of working as a Mechanical Engineer, I've pivoted to Full Stack Web Develper (which is apparently a common thing in the industry).
 
-I started adding to my coding knowledge base from my mech eng degree program, mainly C and MATLAB, and into JS and HTML, which led me to taking the LHL Bootcamp. 
+I started adding to my coding knowledge base from my mech eng degree program, mainly C and MATLAB, and into JS and HTML, which led me to getting my Diploma in Web Development from Lighthouse Labs. 
 
 - 🔭 I’m currently working on an instrument rental app called [JamSpace](https://github.com/bbjarvis/JamSpace), like Turo for musicians
 - 🌱 I’m currently studying 100 Days of Code to learn Python.
