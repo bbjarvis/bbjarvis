@@ -31,10 +31,9 @@ Online marketplace that connects people with musical instruments they want to re
 
 This can be person to person, band (especially touring bands), organization (recording studio), and so on.
 
-This app was built by [Brett](https://github.com/bbjarvis), [Noah](https://github.com/NoahThomlison) and [Tyler](https://github.com/TylerJEShelton) as our final project for the [Lighthouse Labs Web Development Flex Progam](https://www.lighthouselabs.ca/en/web-development-flex-program).
-
-["JamSpace Github Repo"](https://github.com/bbjarvis/JamSpace)
-
+### Tech Stack:
+  MongoDB, Express, React, Node
+  
 ### Home Page:
 
 !["JamSpace Home Page"](https://github.com/bbjarvis/JamSpace/blob/master/screenshots/Home_Page.gif?raw=true)
