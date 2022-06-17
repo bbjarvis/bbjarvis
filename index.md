@@ -94,3 +94,18 @@ The user can save, edit, or delete the appointment and view the entire schedule 
   React, Cypress, Storybook, Jest
 ### How it works:
 !["Scheduler"](https://github.com/bbjarvis/scheduler/blob/master/docs/Scheduler.gif)
+
+## Tweeter
+
+Tweeter is a simple, single-page Twitter clone.
+
+Tweet functionality and responsive design using Flexbox in CSS.
+
+### Tech Stack:
+  HTML, CSS, JS, JQuery, AJAX
+
+### Default user, create tweet:
+!["Make Tweet"](https://github.com/bbjarvis/tweeter/blob/master/docs/make_tweet.gif)
+
+### Responsive Design:
+!["Responsive Design"](https://github.com/bbjarvis/tweeter/blob/master/docs/responsive.gif)
