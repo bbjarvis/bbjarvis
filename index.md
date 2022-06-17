@@ -35,37 +35,36 @@ This app was built by [Brett](https://github.com/bbjarvis), [Noah](https://githu
 
 ["JamSpace Github Repo"](https://github.com/bbjarvis/JamSpace)
 
-## Screenshots
-
-### Home Page
+### Home Page:
 
 !["JamSpace Home Page"](https://github.com/bbjarvis/JamSpace/blob/master/screenshots/Home_Page.gif?raw=true)
 
-### Home Page Listings
+### Home Page Listings:
 
 !["JamSpace Home Page Listings"](https://github.com/bbjarvis/JamSpace/blob/master/screenshots/Home_Listings.gif?raw=true)
 
-### Map
+### Map:
 
 !["JamSpace Map"](https://github.com/bbjarvis/JamSpace/blob/master/screenshots/Map_Listing.gif?raw=true)
 
-### Booking an Instrument
+### Booking an Instrument:
 
 !["JamSpace Create a Listing"](https://github.com/bbjarvis/JamSpace/blob/master/screenshots/Booking.gif?raw=true)
 
-### My Profile
+### My Profile:
 
 !["JamSpace My Profile"](https://github.com/bbjarvis/JamSpace/blob/master/screenshots/My_Profile_page.gif?raw=true)
 
-### Listings
+### Listings:
 
 !["JamSpace Listings"](https://github.com/bbjarvis/JamSpace/blob/master/screenshots/Listings.gif?raw=true)
 
-### Create a Listing
+### Create a Listing:
 
 !["JamSpace Booking an Instrument"](https://github.com/bbjarvis/JamSpace/blob/master/screenshots/Create_Listing.gif?raw=true)
 
-## Pinterest for learners!
+## ReZourceFL:
+### Pinterest for learners!
 
 Allow learners to save learning resources (called a "Zource") like tutorials, blogs and videos in a central place that is publicly available to any user.
 
@@ -73,15 +72,26 @@ Users can save, categorize, comment, rate, like, and search for a Zource URL wit
 
 Users can also view all their own and all liked Zources on one my page.
 
-## Tech Stack:
+### Tech Stack:
   JavaScript, EJS, Node, PostgreSQL, SCSS
  
-## Home Page:
+### Home Page:
 ![reZourceFL_default](https://user-images.githubusercontent.com/72511857/150480241-3382dd87-3eca-452b-a6c5-f7970255a89d.gif)
 
-## My Zources:
+### My Zources:
 ![reZourceFL_my_zources](https://user-images.githubusercontent.com/72511857/150481457-d0ed22ca-7dc2-4036-9568-f10454573c27.gif)
 
-## Create Zource:
+### Create Zource:
 ![reZourceFL_create_zource](https://user-images.githubusercontent.com/72511857/150481498-54634db0-c846-4a61-a897-9e98f8eccd33.gif)
 
+## Interview Scheduler:
+
+Interview Scheduler is a single-page application (SPA) that allows users to book technical interviews between students and mentors.
+
+When creating a new appointment, the user can enter any student name while the interviewer is chosen from a predefined list.
+The user can save, edit, or delete the appointment and view the entire schedule of appointments on any day of the week.
+
+### Tech Stack:
+  React, Cypress, Storybook, Jest
+### How it works:
+!["Scheduler"](https://github.com/bbjarvis/scheduler/blob/master/docs/Scheduler.gif)
