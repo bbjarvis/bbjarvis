@@ -93,7 +93,7 @@ The user can save, edit, or delete the appointment and view the entire schedule 
 ### Tech Stack:
   React, Cypress, Storybook, Jest
 ### How it works:
-!["Scheduler"](https://github.com/bbjarvis/scheduler/blob/master/docs/Scheduler.gif)
+!["Scheduler"](https://github.com/bbjarvis/scheduler/blob/master/docs/Scheduler.gif?raw=true)
 
 ## Tweeter
 
