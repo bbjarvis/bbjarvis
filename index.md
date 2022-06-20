@@ -105,7 +105,7 @@ Tweet functionality and responsive design using Flexbox in CSS.
   HTML, CSS, JS, JQuery, AJAX
 
 ### Default user, create tweet:
-!["Make Tweet"](https://github.com/bbjarvis/tweeter/blob/master/docs/make_tweet.gif)
+!["Make Tweet"](https://github.com/bbjarvis/tweeter/blob/master/docs/make_tweet.gif?raw=true)
 
 ### Responsive Design:
-!["Responsive Design"](https://github.com/bbjarvis/tweeter/blob/master/docs/responsive.gif)
+!["Responsive Design"](https://github.com/bbjarvis/tweeter/blob/master/docs/responsive.gif?raw=true)
